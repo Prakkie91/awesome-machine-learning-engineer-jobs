@@ -36,7 +36,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Artificial Intelligence Machine Learning (AI/ML) Tech Lead](https://boards.greenhouse.io/barbaricum/jobs/4552215008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Cloud Engineer](https://boards.greenhouse.io/barbaricum/jobs/4552293008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Feature Presentation Lead](https://boards.greenhouse.io/barbaricum/jobs/4552328008)** — _n/a_ _(posted 2025-03-14)_
-* **[Artificial Intelligence Machine Learning (AI/ML) Governance Subject Matter Expert (SME)](https://boards.greenhouse.io/barbaricum/jobs/4552261008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
 
@@ -56,10 +55,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5543303004)** — ¤200,000 – ¤275,000 USD _(posted 2025-05-17)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
-
-* **[Senior Machine Learning & Computer Vision Engineer](https://jobs.ashbyhq.com/dandy/e03bd0ac-b26a-44cb-96c1-30539e7c8709)** — ¤185,000 – ¤232,500 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tffstkezwnfefgtgk00r.webp" width="24" height="24" alt="DataCamp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DataCamp](https://jobo.world/company/DataCamp)
 
@@ -159,9 +154,9 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
+* **[Senior Software Engineer, Machine Learning Tools (MLOps)](https://job-boards.greenhouse.io/motional/jobs/6608722003)** — _n/a_ _(posted 2025-06-13)_
 * **[Principal Tech Lead Manager - VLM/LLM for Large Scale Data Mining](https://job-boards.greenhouse.io/motional/jobs/6581277003)** — _n/a_ _(posted 2025-05-23)_
 * **[Principal Engineer, Team Lead - Behaviors](https://job-boards.greenhouse.io/motional/jobs/6581329003)** — _n/a_ _(posted 2025-05-20)_
-* **[Software Engineer, Vision Language Models (New MS/PhD Grad)](https://job-boards.greenhouse.io/motional/jobs/6573711003)** — _n/a_ _(posted 2025-05-20)_
 * **[Data &amp; ML Infrastructure Architect](https://job-boards.greenhouse.io/motional/jobs/6562442003)** — _n/a_ _(posted 2025-05-06)_
 * **[Senior Software Engineer, Vision Language Models](https://job-boards.greenhouse.io/motional/jobs/6209987003)** — _n/a_ _(posted 2025-04-15)_
 * **[Senior Software Engineer, ML Data Services](https://job-boards.greenhouse.io/motional/jobs/6261329003)** — ¤155,300 – ¤207,000 USD _(posted 2025-04-15)_
@@ -224,6 +219,12 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Sr. Machine Learning Engineer, Prediction](https://jobs.ashbyhq.com/serverobotics/154dece4-7ea4-48ce-89ed-d4cf3b0139f2)** — ¤175,000 – ¤230,000 USD _(posted 2025-05-10)_
 * **[Software Engineer, ML Infrastructure ](https://jobs.ashbyhq.com/serverobotics/e4f81a77-8740-4e8e-a545-21a19d6c33ea)** — ¤119,000 – ¤160,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
+
+* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064804195-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-12)_
+* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064803780-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-12)_
+* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064803835-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
 * **[Senior AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/c2f3a849-7f6d-4d0c-b21e-e05212734814)** — ¤155,600 – ¤216,600 USD _(posted 2025-06-10)_
@@ -235,10 +236,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Head of AI Research](https://jobs.ashbyhq.com/standardbots/cf131d20-e0cb-45ce-9d11-e0b95e6792b3)** — ¤300,000 – ¤350,000 USD _(posted 2025-06-12)_
 * **[Senior Software Engineer, Machine Learning](https://jobs.ashbyhq.com/standardbots/f7dc19e2-d3a8-411a-bc84-9e2d5cd6d665)** — ¤300,000 – ¤350,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tkzoeuprdcsvlmiqsqk0.webp" width="24" height="24" alt="Substack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Substack](https://jobo.world/company/Substack)
-
-* **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
 
@@ -284,4 +281,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Machine Learning Engineer, Operations](https://jobs.ashbyhq.com/zefr/2895de23-9195-4189-895d-9ec46a1083cc)** — _n/a_ _(posted 2025-05-29)_
 
 ---
-_Updated automatically — 2025-06-13_
+_Updated automatically — 2025-06-14_
