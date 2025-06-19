@@ -36,6 +36,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Artificial Intelligence Machine Learning (AI/ML) Tech Lead](https://boards.greenhouse.io/barbaricum/jobs/4552215008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Cloud Engineer](https://boards.greenhouse.io/barbaricum/jobs/4552293008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Feature Presentation Lead](https://boards.greenhouse.io/barbaricum/jobs/4552328008)** — _n/a_ _(posted 2025-03-14)_
+* **[Artificial Intelligence Machine Learning (AI/ML) Governance Subject Matter Expert (SME)](https://boards.greenhouse.io/barbaricum/jobs/4552261008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
 
@@ -55,6 +56,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5543303004)** — ¤200,000 – ¤275,000 USD _(posted 2025-05-17)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
+
+* **[Senior Machine Learning & Computer Vision Engineer](https://jobs.ashbyhq.com/dandy/e03bd0ac-b26a-44cb-96c1-30539e7c8709)** — ¤185,000 – ¤232,500 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tffstkezwnfefgtgk00r.webp" width="24" height="24" alt="DataCamp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DataCamp](https://jobo.world/company/DataCamp)
 
@@ -123,12 +128,15 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
-* **[Staff Software Engineer, Machine Learning](https://job-boards.greenhouse.io/hs/jobs/6561618)** — _n/a_ _(posted 2025-05-17)_
 * **[Senior Software Engineer, MLOps](https://job-boards.greenhouse.io/hs/jobs/6565564)** — ¤130,000 – ¤180,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
 
 * **[Machine Learning Engineer, WebML - US Remote](https://apply.workable.com/huggingface/j/6DBAC48BB7/)** — _n/a_ _(posted 2025-05-07)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
+
+* **[Senior Machine Learning Engineer (USA)](https://boards.greenhouse.io/kalepa/jobs/4058423004)** — ¤185,000 – ¤225,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
@@ -186,10 +194,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Senior ML Research Scientist](https://jobs.ashbyhq.com/radai/579491a3-c7fa-4cf0-bffd-2e074ac8b4c2)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
-
-* **[Staff Machine Learning Engineer](https://jobs.ashbyhq.com/ramp/8feea132-de95-4dbe-8f0c-783f225ec7f3)** — ¤185,000 – ¤315,000 USD _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
 
 * **[Senior Machine Learning Engineer](https://job-boards.greenhouse.io/redcellpartners/jobs/4756470007)** — _n/a_ _(posted 2025-06-07)_
@@ -199,7 +203,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mryrjezblnfpjtjmae2c.webp" width="24" height="24" alt="Reddit logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reddit](https://jobo.world/company/Reddit)
 
 * **[Machine Learning Manager - Ads Targeting Modeling](https://job-boards.greenhouse.io/reddit/jobs/6318048)** — _n/a_ _(posted 2025-04-15)_
-* **[Staff Machine Learning Engineer, Ads Targeting](https://job-boards.greenhouse.io/reddit/jobs/6778794)** — _n/a_ _(posted 2025-04-15)_
 * **[Machine Learning Manager - Ads Engagement Modeling](https://job-boards.greenhouse.io/reddit/jobs/6413800)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dc38htlnujhd1sx7rjjk.webp" width="24" height="24" alt="Replicant logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicant](https://jobo.world/company/Replicant)
@@ -221,9 +224,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
-* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064804195-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-12)_
-* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064803780-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-12)_
-* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064803835-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-12)_
+* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000065765675-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gyvfnx0sjlhezelw8wbw.webp" width="24" height="24" alt="Signifyd logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Signifyd](https://jobo.world/company/Signifyd)
 
@@ -235,6 +236,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
 * **[Senior Manager, AI ML Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/1a8b2db8-d339-4f68-a598-1cec00c67c91)** — ¤166,000 – ¤259,000 USD _(posted 2025-03-29)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
+
+* **[Python Machine Learning Engineer](https://jobs.ashbyhq.com/solace/05b60cfc-c166-4527-8c8f-f3e65499114d)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzska8ypqmqsevnfvhod.webp" width="24" height="24" alt="Standard Bots logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Bots](https://jobo.world/company/Standard-Bots)
 
@@ -277,6 +282,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oxvuaoko42xo5ezegait.webp" width="24" height="24" alt="Wizard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Wizard](https://jobo.world/company/Wizard)
 
+* **[Dev Ops / ML Ops Engineer](https://job-boards.greenhouse.io/wizardcommerce/jobs/5566480004)** — _n/a_ _(posted 2025-06-18)_
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/epomocneh0i1naddk0x4.webp" width="24" height="24" alt="Zefr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zefr](https://jobo.world/company/Zefr)
@@ -284,4 +290,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Machine Learning Engineer, Operations](https://jobs.ashbyhq.com/zefr/2895de23-9195-4189-895d-9ec46a1083cc)** — _n/a_ _(posted 2025-05-29)_
 
 ---
-_Updated automatically — 2025-06-18_
+_Updated automatically — 2025-06-19_
