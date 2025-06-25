@@ -132,7 +132,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/6b401e0b-b969-4dff-b55c-e16825573a03)** — _n/a_ _(posted 2025-06-21)_
+* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/e3fdc9f2-bb33-4c06-9995-0f2f8f06f093)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
@@ -178,6 +178,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Principal Engineer - Behaviors](https://job-boards.greenhouse.io/motional/jobs/6521874003)** — _n/a_ _(posted 2025-04-15)_
 * **[Director Machine Learning](https://job-boards.greenhouse.io/motional/jobs/6494722003)** — ¤236,000 USD _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
+
+* **[Senior Applied Scientist](https://job-boards.greenhouse.io/gomotive/jobs/8042652002)** — _n/a_ _(posted 2025-06-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
 * **[Staff Machine Learning Engineer, Gen AI](https://boards.greenhouse.io/mozilla/jobs/6141864)** — _n/a_ _(posted 2025-03-14)_
@@ -189,10 +193,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
 
 * **[Sr ML Software Eng](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5489143004)** — _n/a_ _(posted 2025-04-02)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/soku7uepfoyx1wjqaus4.webp" width="24" height="24" alt="Protective Life logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protective Life](https://jobo.world/company/Protective-Life)
-
-* **[Lead AI/ML Engineer](https://jobs.lever.co/protective/87a65cc8-c3cc-437a-bac5-a7189c50ed9a)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
@@ -296,4 +296,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Machine Learning Engineer, Operations](https://jobs.ashbyhq.com/zefr/2895de23-9195-4189-895d-9ec46a1083cc)** — _n/a_ _(posted 2025-05-29)_
 
 ---
-_Updated automatically — 2025-06-24_
+_Updated automatically — 2025-06-25_
