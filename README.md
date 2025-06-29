@@ -16,7 +16,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
-* **[Director, Machine Learning &amp; Engineering](https://boards.greenhouse.io/angi/jobs/7947354002)** — _n/a_ _(posted 2025-04-09)_
 * **[Staff Machine Learning Engineer](https://boards.greenhouse.io/angi/jobs/7846355002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ghqwpzuacelvxdn6zy1s.webp" width="24" height="24" alt="Artera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Artera](https://jobo.world/company/Artera)
@@ -144,7 +143,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/e3fdc9f2-bb33-4c06-9995-0f2f8f06f093)** — _n/a_ _(posted 2025-06-24)_
+* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/ee040655-b944-448f-b321-43d284770671)** — _n/a_ _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
@@ -213,6 +212,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
 * **[Senior ML Research Scientist](https://jobs.ashbyhq.com/radai/579491a3-c7fa-4cf0-bffd-2e074ac8b4c2)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/osp88o3gd221lgronpfd.webp" width="24" height="24" alt="Reality Defender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reality Defender](https://jobo.world/company/Reality-Defender)
+
+* **[MLOps Engineer](https://jobs.ashbyhq.com/realitydefender/7dd89805-b0fb-496f-982d-c881000ee2e3)** — ¤140,000 – ¤180,000 USD _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
 
@@ -311,4 +314,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Machine Learning Engineer, Operations](https://jobs.ashbyhq.com/zefr/2895de23-9195-4189-895d-9ec46a1083cc)** — _n/a_ _(posted 2025-05-29)_
 
 ---
-_Updated automatically — 2025-06-28_
+_Updated automatically — 2025-06-29_
