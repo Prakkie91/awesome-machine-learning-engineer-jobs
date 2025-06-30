@@ -48,10 +48,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer](https://jobs.ashbyhq.com/biorender/7d92d920-6a0c-4a53-b2a0-eb926f5de4a1)** — _n/a_ _(posted 2025-03-12)_
 * **[AI Engineer](https://jobs.ashbyhq.com/biorender/b92aa20e-de40-4c9d-b8da-ec69eb6a8f01)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
-
-* **[Director, Data Science &amp; MLE](https://job-boards.greenhouse.io/calendly/jobs/8026884002)** — _n/a_ _(posted 2025-06-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5543303004)** — ¤200,000 – ¤275,000 USD _(posted 2025-05-17)_
@@ -191,6 +187,8 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
+* **[Senior Machine Learning Engineering Manager, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008830)** — _n/a_ _(posted 2025-06-29)_
+* **[Sr Staff Machine Learning Engineer, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008814)** — _n/a_ _(posted 2025-06-29)_
 * **[Staff Machine Learning Engineer, Gen AI](https://boards.greenhouse.io/mozilla/jobs/6141864)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
@@ -296,10 +294,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Engineering Manager, AI Platform](https://jobs.ashbyhq.com/vanta/6b279171-f496-44d8-a67f-2ea2fec986e1)** — ¤180,000 – ¤250,000 USD _(posted 2025-05-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nleky3p4ihdqukwwof92.webp" width="24" height="24" alt="Vectra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vectra](https://jobo.world/company/Vectra)
-
-* **[Software Engineer](https://job-boards.greenhouse.io/vectara/jobs/4731119008)** — _n/a_ _(posted 2025-05-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/joy0o0atekyhotydgedt.webp" width="24" height="24" alt="Weave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weave](https://jobo.world/company/Weave)
 
 * **[Machine Learning Ops Engineer](https://jobs.ashbyhq.com/weave/b58bc58b-dec3-411a-9237-9adf84a56438)** — _n/a_ _(posted 2025-03-26)_
@@ -314,4 +308,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Machine Learning Engineer, Operations](https://jobs.ashbyhq.com/zefr/2895de23-9195-4189-895d-9ec46a1083cc)** — _n/a_ _(posted 2025-05-29)_
 
 ---
-_Updated automatically — 2025-06-29_
+_Updated automatically — 2025-06-30_
