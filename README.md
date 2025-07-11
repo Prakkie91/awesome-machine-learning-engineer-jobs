@@ -37,6 +37,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/haqaiftm1swlpga8pyfi.webp" width="24" height="24" alt="BambooHR logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BambooHR](https://jobo.world/company/BambooHR)
 
+* **[AI/ML Engineer](https://job-boards.greenhouse.io/bamboohr17/jobs/5584482004)** — _n/a_ _(posted 2025-07-10)_
 * **[AI/ML Architect](https://job-boards.greenhouse.io/bamboohr17/jobs/5542995004)** — _n/a_ _(posted 2025-06-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/artpcuu1rb7wo1ernbhe.webp" width="24" height="24" alt="Barbaricum logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Barbaricum](https://jobo.world/company/Barbaricum)
@@ -137,6 +138,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Machine Learning Engineer](https://jobs.ashbyhq.com/hang/7b899a89-ed68-4988-8c3b-27ee46d6eca3)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
+
+* **[Senior Machine Learning Engineer](https://job-boards.greenhouse.io/hs/jobs/7004371)** — _n/a_ _(posted 2025-07-10)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
 * **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/aa35a18f-61ce-4639-9735-993829ec1933)** — _n/a_ _(posted 2025-07-08)_
@@ -166,7 +171,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
-* **[Senior Software Engineer, Machine Learning Tools (MLOps)](https://job-boards.greenhouse.io/motional/jobs/6608722003)** — _n/a_ _(posted 2025-06-13)_
 * **[Principal Tech Lead Manager - VLM/LLM for Large Scale Data Mining](https://job-boards.greenhouse.io/motional/jobs/6581277003)** — _n/a_ _(posted 2025-05-23)_
 * **[Principal Engineer, Team Lead - Behaviors](https://job-boards.greenhouse.io/motional/jobs/6581329003)** — _n/a_ _(posted 2025-05-20)_
 * **[Data &amp; ML Infrastructure Architect](https://job-boards.greenhouse.io/motional/jobs/6562442003)** — _n/a_ _(posted 2025-05-06)_
@@ -186,7 +190,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Senior Machine Learning Engineering Manager, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008830)** — _n/a_ _(posted 2025-06-29)_
 * **[Sr Staff Machine Learning Engineer, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008814)** — _n/a_ _(posted 2025-06-29)_
-* **[Staff Machine Learning Engineer, Gen AI](https://boards.greenhouse.io/mozilla/jobs/6141864)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
 
@@ -233,7 +236,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uctpsm9v2ztjf5g3pgnl.webp" width="24" height="24" alt="Rocket Money logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rocket Money](https://jobo.world/company/RocketMoney)
 
 * **[Senior ML Engineer, Product](https://job-boards.greenhouse.io/truebill/jobs/6353484003)** — _n/a_ _(posted 2025-07-03)_
-* **[Senior Team Leader, Machine Learning Engineering](https://job-boards.greenhouse.io/truebill/jobs/6482484003)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q980vtbupbvhldx41hpg.webp" width="24" height="24" alt="ScienceLogic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ScienceLogic](https://jobo.world/company/ScienceLogic)
 
@@ -285,6 +287,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zq1j3077jl0jza2qltop.webp" width="24" height="24" alt="Turing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Turing](https://jobo.world/company/Turing)
 
+* **[GenAI Eng Manager](https://job-boards.greenhouse.io/turing/jobs/5585349004)** — _n/a_ _(posted 2025-07-10)_
 * **[Applied Research Engineer – Robotics Data &amp; ML](https://job-boards.greenhouse.io/turing/jobs/5576004004)** — _n/a_ _(posted 2025-07-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sy4hddyywre0xed5evql.webp" width="24" height="24" alt="Union.ai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Union.ai](https://jobo.world/company/Union-AI)
@@ -305,4 +308,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-10_
+_Updated automatically — 2025-07-11_
