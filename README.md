@@ -49,7 +49,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
 
 * **[Software Engineer - Model Performance](https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
-* **[Infrastructure Software Engineer](https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
@@ -129,7 +128,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tgzryldkxag6dhkpbwqq.webp" width="24" height="24" alt="Handshake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Handshake](https://jobo.world/company/Handshake)
 
 * **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/handshake/8d980760-45e9-4d4c-940f-e2118082b5c0)** — ¤220,000 – ¤260,000 USD _(posted 2025-07-12)_
-* **[AI Tutor, Machine Learning Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/688c906d-4ed3-40e2-bca9-e3c96ba2fba7)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
@@ -284,6 +282,8 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zq1j3077jl0jza2qltop.webp" width="24" height="24" alt="Turing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Turing](https://jobo.world/company/Turing)
 
+* **[GenAI Eng Manager](https://job-boards.greenhouse.io/turing/jobs/5584995004)** — _n/a_ _(posted 2025-07-13)_
+* **[Senior GenAI Engineer](https://job-boards.greenhouse.io/turing/jobs/5584993004)** — _n/a_ _(posted 2025-07-13)_
 * **[GenAI Eng Manager](https://job-boards.greenhouse.io/turing/jobs/5585349004)** — _n/a_ _(posted 2025-07-10)_
 * **[Applied Research Engineer – Robotics Data &amp; ML](https://job-boards.greenhouse.io/turing/jobs/5576004004)** — _n/a_ _(posted 2025-07-04)_
 
@@ -305,4 +305,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-13_
+_Updated automatically — 2025-07-14_
