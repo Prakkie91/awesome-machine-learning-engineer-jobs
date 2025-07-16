@@ -32,6 +32,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
 * **[Lead MLOps Engineer](https://job-boards.greenhouse.io/arine/jobs/5563737004)** — _n/a_ _(posted 2025-07-02)_
+* **[Principal AI Engineer](https://job-boards.greenhouse.io/arine/jobs/5561059004)** — _n/a_ _(posted 2025-06-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ghqwpzuacelvxdn6zy1s.webp" width="24" height="24" alt="Artera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Artera](https://jobo.world/company/Artera)
 
@@ -41,6 +42,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Machine Learning Scientist II/Sr (Biomedical Images)](https://jobs.ashbyhq.com/iambic-therapeutics/78382d24-b006-4187-9d93-658341ff927f)** — ¤152,000 – ¤215,000 USD _(posted 2025-06-26)_
 * **[Machine Learning Scientist II/Sr (Omics)](https://jobs.ashbyhq.com/iambic-therapeutics/926c7fe3-42fc-44d9-b5f3-29dde2068f08)** — ¤152,000 – ¤215,000 USD _(posted 2025-06-26)_
+* **[Graduate Research Intern - Machine Learning for Protein Structure Prediction](https://jobs.ashbyhq.com/iambic-therapeutics/58cce69b-3d9b-4935-9a65-41cbc528f37e)** — _n/a_ _(posted 2025-05-09)_
 * **[Software Engineer II/Sr Software Engineer (US)](https://jobs.ashbyhq.com/iambic-therapeutics/d60ce453-d384-4887-b603-f3c10dd9c1ed)** — ¤135,000 – ¤190,000 USD _(posted 2025-04-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/haqaiftm1swlpga8pyfi.webp" width="24" height="24" alt="BambooHR logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BambooHR](https://jobo.world/company/BambooHR)
@@ -49,6 +51,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/artpcuu1rb7wo1ernbhe.webp" width="24" height="24" alt="Barbaricum logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Barbaricum](https://jobo.world/company/Barbaricum)
 
+* **[Artificial Intelligence Machine Learning (AI/ML) Tech Lead](https://boards.greenhouse.io/barbaricum/jobs/4552215008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Cloud Engineer](https://boards.greenhouse.io/barbaricum/jobs/4552293008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Feature Presentation Lead](https://boards.greenhouse.io/barbaricum/jobs/4552328008)** — _n/a_ _(posted 2025-03-14)_
 
@@ -60,6 +63,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Head of ML](https://jobs.ashbyhq.com/biorender/81d9d1db-072a-459b-a39d-688b0defd546)** — _n/a_ _(posted 2025-04-12)_
 * **[Machine Learning Engineer](https://jobs.ashbyhq.com/biorender/7d92d920-6a0c-4a53-b2a0-eb926f5de4a1)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
+
+* **[Director, Data Science &amp; MLE](https://job-boards.greenhouse.io/calendly/jobs/8026884002)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
@@ -81,12 +88,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yzkimf3zrdbpki20fjgt.webp" width="24" height="24" alt="Eight Sleep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eight Sleep](https://jobo.world/company/Eight-Sleep)
 
 * **[R&D Machine Learning Scientist](https://jobs.ashbyhq.com/eightsleep/e6be1191-f2be-478e-b718-96233f8cae60)** — _n/a_ _(posted 2025-05-06)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
-
-* **[Staff Software Engineer, ML Platform](https://job-boards.greenhouse.io/evolutioniq/jobs/5564571004)** — _n/a_ _(posted 2025-06-14)_
-* **[Staff Software Engineer, ML Platform](https://job-boards.greenhouse.io/evolutioniq/jobs/5564573004)** — _n/a_ _(posted 2025-06-14)_
-* **[Staff Software Engineer, ML Platform &amp; AI Labs](https://job-boards.greenhouse.io/evolutioniq/jobs/5541288004)** — _n/a_ _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
@@ -110,6 +111,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Staff Machine Learning Scientist](https://jobs.ashbyhq.com/futurefitai/381b9149-d399-4783-bad7-1e3f2021738e)** — _n/a_ _(posted 2025-06-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
+
+* **[Software Engineer, Model Evaluation Systems](https://job-boards.greenhouse.io/groq/jobs/6493328003)** — _n/a_ _(posted 2025-05-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tgzryldkxag6dhkpbwqq.webp" width="24" height="24" alt="Handshake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Handshake](https://jobo.world/company/Handshake)
 
 * **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/handshake/8d980760-45e9-4d4c-940f-e2118082b5c0)** — ¤220,000 – ¤260,000 USD _(posted 2025-07-12)_
@@ -126,15 +131,13 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Senior/Staff Software Engineer - AI](https://jobs.ashbyhq.com/ironcladhq/083eb08d-8e0b-4e72-8a04-ec3414bdba31)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/b93cc040-a0cc-4c4d-a4f8-ffd33919213e)** — _n/a_ _(posted 2025-07-12)_
-* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/d41adc1a-962f-4b5f-b465-a82ce692b6a1)** — _n/a_ _(posted 2025-07-12)_
-* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/b45f0850-ea4c-4ba2-9709-c921f6ef0777)** — _n/a_ _(posted 2025-07-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Machine Learning Engineer, PEDM](https://apply.workable.com/keepersecurity/j/3C29CF882E/)** — _n/a_ _(posted 2025-05-27)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ockr7ou9ynrwmvkceogn.webp" width="24" height="24" alt="Lambda logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Lambda](https://jobo.world/company/Lambda)
+
+* **[Senior Cloud Solutions Engineer](https://jobs.ashbyhq.com/lambda/cf68b388-6b83-4576-a5ef-86e7fd8ac23a)** — ¤249,600 – ¤374,400 USD _(posted 2025-07-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjahxbscuxlyey0keefe.webp" width="24" height="24" alt="Loop logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Loop](https://jobo.world/company/Loop)
 
@@ -305,4 +308,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
