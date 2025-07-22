@@ -21,6 +21,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hr15kfrnkqpkjlyedtzn.webp" width="24" height="24" alt="Alto Pharmacy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alto Pharmacy](https://jobo.world/company/Alto)
 
+* **[Staff Applied Scientist](https://alto.wd1.myworkdayjobs.com/alto_external_career_site/job/Remote---Texas/Staff-Applied-Scientist_R200193)** — _n/a_ _(posted 2025-07-15)_
 * **[Senior Applied Scientist](https://alto.wd1.myworkdayjobs.com/alto_external_career_site/job/Remote---Texas/Staff-Applied-Scientist_R200015)** — _n/a_ _(posted 2025-06-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
@@ -194,10 +195,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Senior Manager - Machine Learning Engineering](https://job-boards.greenhouse.io/opendoor/jobs/4575002006)** — _n/a_ _(posted 2025-07-03)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
-
-* **[Staff Machine Learning Data Scientist](https://apply.workable.com/oura-health-ltd/j/2631168F45/)** — ¤182,000 USD _(posted 2025-07-03)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
 
 * **[Machine Learning Lead (R&D)](https://jobs.ashbyhq.com/panoptyc/b2664f90-ea7b-417b-9d92-6617dd21fa30)** — _n/a_ _(posted 2025-06-27)_
@@ -302,4 +299,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_
