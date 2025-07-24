@@ -36,7 +36,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
-* **[Lead MLOps Engineer](https://job-boards.greenhouse.io/arine/jobs/5563737004)** — _n/a_ _(posted 2025-07-02)_
 * **[Staff Machine Learning Engineer](https://job-boards.greenhouse.io/arine/jobs/5490295004)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ghqwpzuacelvxdn6zy1s.webp" width="24" height="24" alt="Artera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Artera](https://jobo.world/company/Artera)
@@ -100,15 +99,12 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Senior Machine Learning Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F13b09468-47f0-49dc-8a27-8668499dc514)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-19)_
+* **[Staff Machine Learning Scientist](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fd5e7afd3-026b-4457-a39a-48bb3bab8a1b)** — ¤200,000 – ¤240,000 USD _(posted 2025-05-24)_
 * **[Machine Learning Engineer II - Maintenance](https://jobs.ashbyhq.com%2Fflock%2520safety%2F17823919-49af-4278-a2c3-6c2ad1d7f22f)** — ¤117,000 – ¤171,000 USD _(posted 2025-04-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
 * **[Senior AI Engineer](https://jobs.lever.co/foodsmart/721a1ecf-2e21-4a66-94d0-7079bba6945d)** — _n/a_ _(posted 2025-05-31)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/flbbx2mui2uwgawelkbx.webp" width="24" height="24" alt="FutureFit AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FutureFit AI](https://jobo.world/company/FutureFitAI)
-
-* **[Staff Machine Learning Scientist](https://jobs.ashbyhq.com/futurefitai/381b9149-d399-4783-bad7-1e3f2021738e)** — _n/a_ _(posted 2025-06-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tgzryldkxag6dhkpbwqq.webp" width="24" height="24" alt="Handshake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Handshake](https://jobo.world/company/Handshake)
 
@@ -180,10 +176,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Machine Learning Engineering Manager, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008830)** — _n/a_ _(posted 2025-06-29)_
 * **[Sr Staff Machine Learning Engineer, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008814)** — _n/a_ _(posted 2025-06-29)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
-
-* **[Machine Learning Engineer III](https://job-boards.greenhouse.io/myfitnesspal/jobs/7008355)** — _n/a_ _(posted 2025-06-25)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cyee6notwy6rmksreyek.webp" width="24" height="24" alt="Natera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Natera](https://jobo.world/company/Natera)
 
 * **[Staff Software Engineer - Revenue Cycle Management](https://job-boards.greenhouse.io/natera/jobs/5525708004)** — _n/a_ _(posted 2025-07-19)_
@@ -192,6 +184,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
 
 * **[Senior Manager - Machine Learning Engineering](https://job-boards.greenhouse.io/opendoor/jobs/4575002006)** — _n/a_ _(posted 2025-07-03)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
+
+* **[Machine Learning Lead (R&D)](https://jobs.ashbyhq.com/panoptyc/b2664f90-ea7b-417b-9d92-6617dd21fa30)** — _n/a_ _(posted 2025-06-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwdcozztnt2wol55ly9k.webp" width="24" height="24" alt="Pathward logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pathward](https://jobo.world/company/Pathward)
 
@@ -264,6 +260,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
+* **[Solution Innovation Architect - AI/ML](https://jobs.ashbyhq.com/snowflake/4504c30f-ad2e-47d0-9b29-8e03751b6172)** — ¤163,000 – ¤232,000 USD _(posted 2025-07-04)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
 
@@ -302,4 +299,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-23_
+_Updated automatically — 2025-07-24_
