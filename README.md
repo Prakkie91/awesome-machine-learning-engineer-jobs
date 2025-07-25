@@ -92,10 +92,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Platform Engineer, Machine Learning](https://jobs.ashbyhq.com/fieldguide/b28eecb8-8552-422c-82a2-e7dd4b0d6ec8)** — ¤188,000 – ¤213,500 USD _(posted 2025-03-12)_
 * **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/e11a7aea-ae86-44d7-913c-591a8a7d0803)** — ¤188,000 – ¤213,500 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
-
-* **[Senior Staff Machine Learning Engineer](https://job-boards.greenhouse.io/flex/jobs/4571283005)** — _n/a_ _(posted 2025-05-31)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Senior Machine Learning Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F13b09468-47f0-49dc-8a27-8668499dc514)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-19)_
@@ -180,6 +176,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Staff Software Engineer - Revenue Cycle Management](https://job-boards.greenhouse.io/natera/jobs/5525708004)** — _n/a_ _(posted 2025-07-19)_
 * **[Lead Machine Learning &amp; DevOps Engineer](https://job-boards.greenhouse.io/natera/jobs/5575823004)** — _n/a_ _(posted 2025-07-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wxdvxnvmgfynvcvm4zpo.webp" width="24" height="24" alt="Omada Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Omada Health](https://jobo.world/company/Omada-Health)
+
+* **[Staff Software Engineer, AI and Data Technology](https://job-boards.greenhouse.io/omadahealth/jobs/6822126)** — _n/a_ _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
 
@@ -299,4 +299,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_
