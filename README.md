@@ -12,10 +12,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Software Engineer II, Backend (ML Platform)](https://job-boards.greenhouse.io/affirm/jobs/6482668003)** — _n/a_ _(posted 2025-05-01)_
 * **[Senior Software Engineer, Backend (ML Platform)](https://job-boards.greenhouse.io/affirm/jobs/6314182003)** — _n/a_ _(posted 2025-03-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
-
-* **[Senior Machine Learning Engineer](https://jobs.lever.co/aiwyn/4bcd6b67-11bd-4a70-8b5c-3e5040f4f9fa)** — _n/a_ _(posted 2025-06-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
 
 * **[Senior ML/AI Researcher II  - ML and AI modeling](https://jobs.lever.co/aledade/6ef0cf14-1fa9-4a99-8e17-805b364fac75)** — _n/a_ _(posted 2025-07-08)_
@@ -126,6 +122,8 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
+* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/af2e8b28-25e7-44de-9051-87abc6fa3022)** — _n/a_ _(posted 2025-07-26)_
+* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/0cc87ee8-8804-4e01-8aa4-5c2873750b89)** — _n/a_ _(posted 2025-07-26)_
 * **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/ec1808b8-9982-4adb-8bf7-c50555553db0)** — _n/a_ _(posted 2025-07-22)_
 * **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/539ff283-f893-4fba-8a1e-86fa2ad90a89)** — _n/a_ _(posted 2025-07-22)_
 * **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/3e0b46a7-4324-4c09-b8ab-c8c3627cd05f)** — _n/a_ _(posted 2025-07-22)_
@@ -140,7 +138,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjahxbscuxlyey0keefe.webp" width="24" height="24" alt="Loop logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Loop](https://jobo.world/company/Loop)
 
 * **[Machine Learning Engineer](https://jobs.lever.co/loopreturns/6ee12efa-63a8-4b47-86f3-147e72b7e2d7)** — _n/a_ _(posted 2025-07-03)_
-* **[DevOps Engineer (MLOps)](https://jobs.lever.co/loopreturns/eeb34af0-e24f-4c0d-9a69-a4f069da0eb2)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
@@ -296,4 +293,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
