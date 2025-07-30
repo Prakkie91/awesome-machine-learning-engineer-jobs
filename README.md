@@ -47,7 +47,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
-* **[Head of ML](https://jobs.ashbyhq.com/biorender/81d9d1db-072a-459b-a39d-688b0defd546)** — _n/a_ _(posted 2025-04-12)_
 * **[Machine Learning Engineer](https://jobs.ashbyhq.com/biorender/7d92d920-6a0c-4a53-b2a0-eb926f5de4a1)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/waipgepcsalq2dll3eq1.webp" width="24" height="24" alt="Cohere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cohere](https://jobo.world/company/Cohere)
@@ -115,23 +114,20 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Machine Learning Engineer](https://job-boards.greenhouse.io/hs/jobs/7004371)** — _n/a_ _(posted 2025-07-10)_
 * **[Staff Software Engineer, Machine Learning](https://job-boards.greenhouse.io/hs/jobs/6561618)** — _n/a_ _(posted 2025-05-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
-
-* **[Senior Cognitive/Machine Learning Professional](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Cognitive-Machine-Learning-Professional_R-372378)** — _n/a_ _(posted 2025-04-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
 * **[Senior/Staff Software Engineer - AI](https://jobs.ashbyhq.com/ironcladhq/083eb08d-8e0b-4e72-8a04-ec3414bdba31)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
+* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/da7935ea-2bcd-4a7c-b0d4-9ddf8a092468)** — _n/a_ _(posted 2025-07-29)_
+* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/6b9908d5-8f4b-4d52-a898-85240243654b)** — _n/a_ _(posted 2025-07-29)_
 * **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/af2e8b28-25e7-44de-9051-87abc6fa3022)** — _n/a_ _(posted 2025-07-26)_
 * **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/0cc87ee8-8804-4e01-8aa4-5c2873750b89)** — _n/a_ _(posted 2025-07-26)_
 * **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/ec1808b8-9982-4adb-8bf7-c50555553db0)** — _n/a_ _(posted 2025-07-22)_
 * **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/539ff283-f893-4fba-8a1e-86fa2ad90a89)** — _n/a_ _(posted 2025-07-22)_
 * **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/3e0b46a7-4324-4c09-b8ab-c8c3627cd05f)** — _n/a_ _(posted 2025-07-22)_
 * **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/2fb5d72d-62e7-407d-98b1-737640a050c7)** — _n/a_ _(posted 2025-07-19)_
-* **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/894756b3-3194-48b3-8b21-a47509b19c35)** — _n/a_ _(posted 2025-07-19)_
 * **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/75ac4365-6251-42c1-b1fc-6d99d2868224)** — _n/a_ _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
@@ -183,6 +179,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
 
+* **[Research Scientist](https://job-boards.greenhouse.io/opendoor/jobs/4588169006)** — _n/a_ _(posted 2025-07-29)_
 * **[Senior Manager - Machine Learning Engineering](https://job-boards.greenhouse.io/opendoor/jobs/4575002006)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwdcozztnt2wol55ly9k.webp" width="24" height="24" alt="Pathward logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pathward](https://jobo.world/company/Pathward)
@@ -290,4 +287,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-29_
+_Updated automatically — 2025-07-30_
