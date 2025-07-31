@@ -53,6 +53,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Software Engineer - Applied ML (US/CAN)](https://jobs.ashbyhq.com/cohere/9d571f44-369b-41be-854e-89c7e119c4d7)** — _n/a_ _(posted 2025-07-23)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
+
+* **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5601231004)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R23602)** — _n/a_ _(posted 2025-06-26)_
@@ -86,6 +90,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Senior Embedded Machine Learning Engineer ](https://jobs.ashbyhq.com/flock%20safety/01421c1a-657d-4451-ae26-1220ea21bf6e)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-30)_
 * **[Senior Machine Learning Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F13b09468-47f0-49dc-8a27-8668499dc514)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
@@ -169,7 +174,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
-* **[Senior Machine Learning Engineering Manager, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008830)** — _n/a_ _(posted 2025-06-29)_
 * **[Sr Staff Machine Learning Engineer, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008814)** — _n/a_ _(posted 2025-06-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cyee6notwy6rmksreyek.webp" width="24" height="24" alt="Natera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Natera](https://jobo.world/company/Natera)
@@ -205,10 +209,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
 
 * **[Sr ML Software Eng](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5489143004)** — _n/a_ _(posted 2025-04-02)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5txencksj62sqn8e3c2.webp" width="24" height="24" alt="Prove logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Prove](https://jobo.world/company/Prove)
-
-* **[Founding Sales Engineer](https://apply.workable.com/proveai/j/CC3AACC093/)** — _n/a_ _(posted 2025-02-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
@@ -287,4 +287,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_
