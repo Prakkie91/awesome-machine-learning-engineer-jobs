@@ -81,7 +81,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Staff Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/63597060-ff7b-4ffa-b2e2-c41a5b90087c)** — ¤250,000 – ¤280,000 USD _(posted 2025-07-23)_
 * **[Staff Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/488765af-de0b-4622-9324-3599d39cf5de)** — ¤220,000 – ¤280,000 USD _(posted 2025-07-19)_
-* **[Senior Platform Engineer, Machine Learning](https://jobs.ashbyhq.com/fieldguide/b28eecb8-8552-422c-82a2-e7dd4b0d6ec8)** — ¤188,000 – ¤213,500 USD _(posted 2025-03-12)_
 * **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/e11a7aea-ae86-44d7-913c-591a8a7d0803)** — ¤188,000 – ¤213,500 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
@@ -92,6 +91,7 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Senior Embedded Machine Learning Engineer ](https://jobs.ashbyhq.com/flock%20safety/01421c1a-657d-4451-ae26-1220ea21bf6e)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-30)_
 * **[Senior Machine Learning Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F13b09468-47f0-49dc-8a27-8668499dc514)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-19)_
+* **[Machine Learning Engineer II - Maintenance](https://jobs.ashbyhq.com%2Fflock%2520safety%2F17823919-49af-4278-a2c3-6c2ad1d7f22f)** — ¤117,000 – ¤171,000 USD _(posted 2025-04-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
@@ -118,10 +118,6 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 
 * **[Senior Machine Learning Engineer](https://job-boards.greenhouse.io/hs/jobs/7004371)** — _n/a_ _(posted 2025-07-10)_
 * **[Staff Software Engineer, Machine Learning](https://job-boards.greenhouse.io/hs/jobs/6561618)** — _n/a_ _(posted 2025-05-17)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
-
-* **[Senior/Staff Software Engineer - AI](https://jobs.ashbyhq.com/ironcladhq/083eb08d-8e0b-4e72-8a04-ec3414bdba31)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
@@ -171,6 +167,10 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Senior Software Engineer, ML Data Services](https://job-boards.greenhouse.io/motional/jobs/6261329003)** — ¤155,300 – ¤207,000 USD _(posted 2025-04-15)_
 * **[Senior Machine Learning Engineer - Behaviors](https://job-boards.greenhouse.io/motional/jobs/6526950003)** — _n/a_ _(posted 2025-04-15)_
 * **[Principal Machine Learning Engineer -  Team Lead - Behaviors (Prediction &amp; ML Planner)](https://job-boards.greenhouse.io/motional/jobs/6354724003)** — _n/a_ _(posted 2025-04-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
+
+* **[Senior Applied Scientist](https://job-boards.greenhouse.io/gomotive/jobs/8042652002)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
@@ -287,4 +287,4 @@ Browse a wide range of remote Machine Learning Engineer positions available glob
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
